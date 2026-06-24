@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://fontesdeletras.github.io/Letras-Diferentes/sitemap.xml
+Sitemap: https://fontesdeletras.github.io/letras-diferentes/sitemap.xml
